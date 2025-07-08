@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=sannafarias)
+
 ## Hi everyone 👋
 
 My name is Sanna and I'm beginner in programming since July/2025. 
@@ -15,7 +17,5 @@ Before stepping into the world of programming, I built my career in the commerci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannafarias&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannafarias&show_icons=true&theme=dark)
-
-![Profile views](https://komarev.com/ghpvc/?username=sannafarias)
 
 Inspirado em [Henrique Baeta](https://github.com/HenriqueBaetaLeite)
