@@ -11,11 +11,9 @@ Before stepping into the world of programming, I built my career in the commerci
 - 🔭 I’m looking to collaborate on beginner front-end projects, HTML/CSS, Java and Python challenges, and initiatives that connect technology and business.
 - 🤔 I’m looking for help with best practices in HTML/CSS, JavaScript, Python and code organization.
 - 💬 Ask me about B2B sales, outbound prospecting, process optimization, commercial team leadership, ux, data, digital transformation, Startup ecosystem and career transition.
-- 📫 How to reach me: www.linkedin.com/in/sannasf/
+- 📫 How to reach me: sanna.santos@gmail.com
 - ⚡ Fun fact: I became a mother at 16, and that fueled my drive for growth. I became a saleswoman who decided to learn programming to better understand the product I sell — and I’m loving every bug along the way 😅
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannafarias&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannafarias&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannafarias&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannafarias&show_icons=true&theme=dark)
 
 Inspirado em [Henrique Baeta](https://github.com/HenriqueBaetaLeite)
